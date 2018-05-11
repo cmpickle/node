@@ -1,0 +1,11 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "demo npm scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Hello, world!"
+  },
+  "author": "Cameron Pickle",
+  "license": "ISC"
+}
